@@ -14,6 +14,10 @@ system:
 avm:
   shared:
      avm-property: this is specific to avm application
+     
+common:
+  shared:
+    comm-prop: this is a common shared property
       
 corelogic: this is our value
 core2: Here is another CIS testing property
